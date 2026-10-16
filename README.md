@@ -33,7 +33,7 @@ La octava inicial es 5. Es fija
 
 ## Requisitos
 
-- Python 3
+- Python 3.11.9
 - Cámara web
 - Salida de audio
 - Paquetes de Python:
