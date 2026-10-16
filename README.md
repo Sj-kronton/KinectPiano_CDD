@@ -96,4 +96,4 @@ En esta carpeta se conserva `PruebasPipe.py`, un prototipo que abre la cámara y
 - **No se detectan bien los dedos:** coloca ambas manos dentro del encuadre, con la palma visible, y dobla un dedo cada vez hacia la palma de su misma mano.
 - **Falta un paquete:** vuelve a ejecutar el comando de instalación de dependencias en el mismo entorno de Python con el que inicias el programa.
 
-# Asisti a la conferencia de Cotrans
+# Se asistio a la conferencia de Cotrans
